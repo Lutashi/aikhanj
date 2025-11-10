@@ -9,8 +9,8 @@
 <a href="https://linkedin.com/in/aikhanj">linkedin</a> · 
 <a href="https://x.com/jumashukurov">x</a>
 
-<br/><br/>
 
+<br><br>
 <i>Привычка нам дана свыше, замена счастию она</i><br/>
 <i><b> — Александр Сергеевич Пушкин  </i></b>
 
