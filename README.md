@@ -1,16 +1,35 @@
-<h1 align="center">aikhan jumashukurov</h1>
+<!-- right-aligned header -->
+<div align="right">
 
-<p align="center">
-recognized by the <b>Kyrgyz government</b> for national AI innovation<br>
-<b>2×</b> published AI research — transformer reliability & low-resource NLP<br>
-founder of <b>IKyrgyz</b>, the first Kyrgyz-language AI assistant<br>
-taught <b>1000+ students</b> to code through ITECABIS
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=700&color=00FF99&center=false&vCenter=true&width=800&lines=aikhan+jumashukurov" alt="animated intro"/>
 
-<p align="center">
-<a href="https://aikhanjumashukurov.com">website</a> • 
-<a href="https://linkedin.com/in/jumashukurov">linkedin</a> • 
+<svg width="800" height="5">
+  <rect width="800" height="5" rx="3" fill="#0A0A0A"/>
+  <rect id="pulse" width="120" height="5" rx="3" fill="#00FF99">
+    <animate attributeName="x" from="-120" to="800" dur="3s" repeatCount="indefinite" />
+  </rect>
+</svg>
+
+<br/>
+
+<b>recognized by the Kyrgyz government</b> — national AI innovation<br/>
+<b>2× published AI research</b> — transformer reliability · low-resource translation<br/>
+<b>one of the first Kyrgyz students at Princeton University</b><br/>
+<b>founder of IKyrgyz</b> — first Kyrgyz-language AI assistant<br/>
+<b>Crimson Education 18u18 Global Award</b> — top 18 innovators worldwide<br/>
+<b>International Math Olympiad</b> — gold medal · AMC 8 1st place · AMC 10 top 3%<br/>
+<b>Republican Olympiad</b> — 1st of 1300 participants<br/>
+taught <b>1000+</b> students programming before leaving home
+
+<br/><br/>
+
+<a href="https://aikhanjumashukurov.com">website</a> · 
+<a href="https://linkedin.com/in/aikhanj">linkedin</a> · 
 <a href="https://x.com/jumashukurov">x</a>
-</p>
 
-<p align="center"><i>Привычка нам дана свыше, замена счастию она.</i><br>– Александр Сергеевич Пушкин</p>
+<br/><br/>
+
+<i>«Привычка нам дана свыше: замена счастию она.»</i><br/>
+Александр Сергеевич Пушкин  
+
+</div>
