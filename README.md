@@ -2,10 +2,8 @@
 <div align="right">
 
 <p align="right">
-  <img src="./banner.svg" width="900" alt="aikhan jumashukurov — banner"/>
+  <img src="./banner2.svg" width="900" alt="aikhan jumashukurov — banner"/>
 </p>
-
-<br/><br/>
 
 <a href="https://aikhanjumashukurov.com">website</a> · 
 <a href="https://linkedin.com/in/aikhanj">linkedin</a> · 
