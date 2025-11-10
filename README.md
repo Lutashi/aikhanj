@@ -5,7 +5,6 @@
   <img src="./banner.svg" width="900" alt="aikhan jumashukurov — banner"/>
 </p>
 
-
 <br/><br/>
 
 <a href="https://aikhanjumashukurov.com">website</a> · 
