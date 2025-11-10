@@ -14,11 +14,6 @@
 
 <br/>
 
-<i>«Привычка нам дана свыше: замена счастию она.»</i><br/>
-Александр Сергеевич Пушкин
-
-<br/><br/>
-
 <p align="center">
   recognized by the <b>Kyrgyz government</b> for national AI innovation<br/>
   <b>2× published AI research</b> — transformer reliability & low-resource NLP<br/>
@@ -35,5 +30,8 @@
   <a href="https://linkedin.com/in/aikhanj">linkedin</a> · 
   <a href="https://x.com/jumashukurov">x</a>
 </p>
+
+<i>«Привычка нам дана свыше: замена счастию она.»</i><br/>
+Александр Сергеевич Пушкин
 
 </div>
